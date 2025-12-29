@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="plus" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M9 5v4H5v2h4v4h2v-4h4v-2h-4V5H9z" fill="#ecfdf5" opacity="0.5"/>
+    </pattern>
+  </defs>
+  <rect width="100" height="100" fill="url(#plus)"/>
+</svg>
